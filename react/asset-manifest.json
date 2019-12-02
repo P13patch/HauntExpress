@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08db01b6.chunk.css",
+    "main.js": "/static/js/main.c3633cf6.chunk.js",
+    "main.js.map": "/static/js/main.c3633cf6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2048b0ad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2048b0ad.js.map",
+    "static/js/2.527c8ac6.chunk.js": "/static/js/2.527c8ac6.chunk.js",
+    "static/js/2.527c8ac6.chunk.js.map": "/static/js/2.527c8ac6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7de983cc5d9fbba355ec268e6e78d518.js": "/precache-manifest.7de983cc5d9fbba355ec268e6e78d518.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.08db01b6.chunk.css.map": "/static/css/main.08db01b6.chunk.css.map",
+    "static/media/GingerHouse.jpg": "/static/media/GingerHouse.5a840be8.jpg",
+    "static/media/PumpkinCarve.jpg": "/static/media/PumpkinCarve.5f10231b.jpg",
+    "static/media/extremehaunt.jpg": "/static/media/extremehaunt.6f8c2c52.jpg",
+    "static/media/houseimg.jpg": "/static/media/houseimg.66787c86.jpg",
+    "static/media/simplehaunt.jpg": "/static/media/simplehaunt.dc7dbeee.jpg",
+    "static/media/snow.jpg": "/static/media/snow.4262c51a.jpg",
+    "static/media/voodooDoll.jpg": "/static/media/voodooDoll.6d1dc986.jpg",
+    "static/media/winterhouse.jpg": "/static/media/winterhouse.30c46686.jpg",
+    "static/media/witchBrew.jpg": "/static/media/witchBrew.b72b79b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2048b0ad.js",
+    "static/js/2.527c8ac6.chunk.js",
+    "static/css/main.08db01b6.chunk.css",
+    "static/js/main.c3633cf6.chunk.js"
+  ]
+}
