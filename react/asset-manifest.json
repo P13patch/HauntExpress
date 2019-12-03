@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.08db01b6.chunk.css",
-    "main.js": "/static/js/main.90fa6478.chunk.js",
-    "main.js.map": "/static/js/main.90fa6478.chunk.js.map",
+    "main.js": "/static/js/main.26728cb4.chunk.js",
+    "main.js.map": "/static/js/main.26728cb4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2048b0ad.js",
     "runtime-main.js.map": "/static/js/runtime-main.2048b0ad.js.map",
     "static/js/2.5cc17053.chunk.js": "/static/js/2.5cc17053.chunk.js",
     "static/js/2.5cc17053.chunk.js.map": "/static/js/2.5cc17053.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e899e3497a4424c66d012514f5791bca.js": "/precache-manifest.e899e3497a4424c66d012514f5791bca.js",
+    "precache-manifest.0849c7564f53201b2149f56e8fc8c0bf.js": "/precache-manifest.0849c7564f53201b2149f56e8fc8c0bf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.08db01b6.chunk.css.map": "/static/css/main.08db01b6.chunk.css.map",
     "static/media/GingerHouse.jpg": "/static/media/GingerHouse.5a840be8.jpg",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.2048b0ad.js",
     "static/js/2.5cc17053.chunk.js",
     "static/css/main.08db01b6.chunk.css",
-    "static/js/main.90fa6478.chunk.js"
+    "static/js/main.26728cb4.chunk.js"
   ]
 }
